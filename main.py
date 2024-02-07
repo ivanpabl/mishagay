@@ -1,3 +1,3 @@
 # Misha gey
 
-print("Ivan krut")
+print("Ivan krut") 
